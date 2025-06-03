@@ -49,7 +49,7 @@ Wygeneruje wykresy PNG i wypisze statystyki.
 
 ## Plik Word
 
-analiza_biznesowa_fitbit.docx zawiera gotowe wnioski i rekomendacje, które można dodać do raportu lub prezentacji.
+analiza_biznesowa_fitbit.docx zawiera gotowe wnioski i rekomendacje
 
 ## Technologie
 
