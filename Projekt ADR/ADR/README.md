@@ -1,6 +1,3 @@
-
-# Zespół 3 – Analiza i wizualizacja danych w czasie rzeczywistym (Kafka + Python)
-
 ## Opis projektu
 
 Projekt realizowany w ramach zadania zespołowego. Celem było zbudowanie systemu analitycznego do monitorowania aktywności użytkowników (na podstawie danych z aplikacji Fitbit), wykrywania anomalii, generowania statystyk oraz wizualizacji danych.
@@ -16,7 +13,7 @@ Projekt realizowany w ramach zadania zespołowego. Celem było zbudowanie system
 ├── analiza_biznesowa_fitbit.docx  # Raport z wnioskami biznesowymi
 ├── docker-compose.yml          # Konfiguracja Kafka + Zookeeper
 ├── Dockerfile                  # Obraz producenta (opcjonalnie)
-└── README.md                   # Instrukcja (ten plik)
+└── README.md                   # Instrukcja
 
 ## Instrukcja uruchomienia (kolejność)
 
