@@ -58,6 +58,3 @@ analiza_biznesowa_fitbit.docx zawiera gotowe wnioski i rekomendacje
 - Git (wersjonowanie projektu)
 - CSV (wymiana danych między komponentami)
 
-## Autorzy
-
-Zespół 3 – projekt zespołowy: analiza i raportowanie w czasie rzeczywistym.
